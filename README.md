@@ -2,8 +2,6 @@
 
 ## PROPOSAL 1
 
-Parkinson disease detection
-
 ### Problem Statement:
 This project seeks to detect Parkinson disease (PD) by analysis in proportion to the keystroke dynamics of the patient. It also aims to design a product by a people-centric design methodology.
 
